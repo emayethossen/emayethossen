@@ -1,12 +1,13 @@
-<img src="https://i.ibb.co/KyrHstn/Beige-Modern-Elegant-Personal-Linked-In-Banner.png" />
 <h1 align="center">Hi 👋! I'm EMAYET HOSSEN..</h1>
  <h2 align="center">MERN Stack Web Developer</h2>
+ <img src="https://i.ibb.co/KyrHstn/Beige-Modern-Elegant-Personal-Linked-In-Banner.png" />
+<p align="center"> 🚀 Transforming ideas into dynamic web experiences! MERN stack magician ✨ | Node.js 🖥️ | React ⚛️ | Express 🔄 | MongoDB 🍃 | Let's code a future together! 💻</p><br />
   <div align="center">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+      src="https://github-readme-stats.vercel.app/api?username=emayethossen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
       height="150" alt="stats graph" />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=emayethossen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
       height="150" alt="languages graph" />
   </div>
   <br/>
@@ -82,7 +83,14 @@
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         height="35" width="150" alt="telegram logo">
     </a>
-  </div>
+  </div><br/>
   <div align="center">
     <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
+   <img src="https://streak-stats.demolab.com/?user=emayethossen" />
+   <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
   </div>
+<br />
+<div align="center">
+ <img src="https://metrics.lecoq.io/emayethossen" />  
+</div>
+
