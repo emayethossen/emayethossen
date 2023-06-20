@@ -49,7 +49,7 @@
   <div align="center">
     <a href="https://www.instagram.com/emayethossen">
       <img
-        src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&logoWidth=30&labelColor=&style=for-the-badge"
+        src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF69B4&logoColor=white&logoWidth=30&labelColor=&style=for-the-badge"
         height="35" width="150" alt="instagram logo" />
     </a>
     <a href="https://discord.com/users/1073823823549444117">
@@ -59,17 +59,17 @@
     </a>
     <a href="https://twitter.com/EmayetHossen">
       <img
-        src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+        src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=00ACEE&logoColor=white&labelColor=&style=for-the-badge"
         height="35" width="150" alt="twitter logo" />
     </a>
-    <a href="https://www.linkedin.com/in/emayethossen/">
+    <a href="https://www.behance.net/emayethossen">
       <img
-        src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+        src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=5DA5FF&logoColor=white&labelColor=&style=for-the-badge"
         height="35" width="150" alt="behance logo" />
     </a>
     <a href="https://www.facebook.com/emayethossen4/">
       <img
-        src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+        src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=17A9FD&logoColor=white&labelColor=&style=for-the-badge"
         height="35" width="150" alt="facebook logo" />
     </a>
     <a href="https://www.linkedin.com/in/emayethossen/">
