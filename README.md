@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋! I'm EMAYET HOSSEN..</h1>
  <h2 align="center">MERN Stack Web Developer</h2>
  <img src="https://i.ibb.co/KyrHstn/Beige-Modern-Elegant-Personal-Linked-In-Banner.png" />
+ <h1 align="center">🚀 About Me</h1>
 <p align="center"> 🚀 Transforming ideas into dynamic web experiences! MERN stack magician ✨ | Node.js 🖥️ | React ⚛️ | Express 🔄 | MongoDB 🍃 | Let's code a future together! 💻</p><br />
   <div align="center">
     <img
@@ -11,6 +12,7 @@
       height="150" alt="languages graph" />
   </div>
   <br/>
+  <h1 align="center">🛠 Skills</h1>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"
       alt="javascript logo" />
@@ -46,8 +48,15 @@
       alt="NodeJS logo" />
   </div>
   <br/>
+  
   <div align="center">
+   <h1>🔗 Social Links</h1>
     <a href="https://www.instagram.com/emayethossen">
+      <img
+        src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"
+        height="35" width="150" alt="Portfolio logo" />
+    </a>
+   <a href="https://www.instagram.com/emayethossen">
       <img
         src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF69B4&logoColor=white&logoWidth=30&labelColor=&style=for-the-badge"
         height="35" width="150" alt="instagram logo" />
