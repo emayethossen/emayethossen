@@ -63,9 +63,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/>
   </a>
-
-
-   
   </div>
   <br/>
   
@@ -108,7 +105,7 @@
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         height="35" width="150" alt="Telegram logo">
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:emayethossen@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge"
         height="35" width="150" alt="Email logo">
     </a>
