@@ -46,6 +46,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"
       alt="NodeJS logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="50"
+      alt="NodeJS logo" />
   </div>
   <br/>
   
