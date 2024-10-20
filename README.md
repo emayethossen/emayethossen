@@ -1,5 +1,4 @@
  <img src="https://i.ibb.co/KyrHstn/Beige-Modern-Elegant-Personal-Linked-In-Banner.png" />
- <h2 align="center">MERN Stack Web Developer</h2>
  <h2 align="center">🚀 About Me</h2>
 <p align="center"> 🚀 Transforming ideas into dynamic web experiences! MERN stack magician ✨. Digital Innovator with a passion for crafting immersive online experiences. Proficient in HTML, CSS, and JavaScript, I leverage React and Next.js to build dynamic and responsive applications. With expertise in Tailwind and a robust backend stack featuring Node.js, Express, and MongoDB, I create seamless full-stack solutions. Driven by curiosity and a desire for continuous improvement, I enjoy turning ideas into impactful digital realities. Let's code a future together! 💻
 </p><br />
