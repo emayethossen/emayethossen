@@ -1,8 +1,8 @@
  <img src="https://i.ibb.co/KyrHstn/Beige-Modern-Elegant-Personal-Linked-In-Banner.png" />
- <h1 align="center">Hi 👋! I'm EMAYET HOSSEN..</h1>
  <h2 align="center">MERN Stack Web Developer</h2>
  <h2 align="center">🚀 About Me</h2>
-<p align="center"> 🚀 Transforming ideas into dynamic web experiences! MERN stack magician ✨ | Node.js 🖥️ | React ⚛️ | Express 🔄 | MongoDB 🍃 | Let's code a future together! 💻</p><br />
+<p align="center"> 🚀 Transforming ideas into dynamic web experiences! MERN stack magician ✨. Digital Innovator with a passion for crafting immersive online experiences. Proficient in HTML, CSS, and JavaScript, I leverage React and Next.js to build dynamic and responsive applications. With expertise in Tailwind and a robust backend stack featuring Node.js, Express, and MongoDB, I create seamless full-stack solutions. Driven by curiosity and a desire for continuous improvement, I enjoy turning ideas into impactful digital realities. Let's code a future together! 💻
+</p><br />
 
   <div align="center">
    <h1>📊 GitHub Stats:</h1>
@@ -118,6 +118,15 @@
 <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=emayethossen&icon=0&color=0" alt="Visitor Count" />
   </a>
-  
+  <h2>👀 Current Overview</h2>
+<h3>Emayet Hossen's Dev Card</h3>
+<ul>
+  <li>🔭 <b>I’m learning</b> - At <strong>Programming Hero</strong>.</li>
+  <li>🌱 <b>I’m exploring</b> - Advanced full-stack development techniques.</li>
+  <li>👯 <b>I’m looking</b> - To collaborate on exciting open-source projects.</li>
+  <li>🤔 <b>I’m trying</b> - To empower others through web development education.</li>
+  <li>⚡ <b>Fun fact</b> - I enjoy hiking and have a knack for cooking international cuisines!</li>
+</ul>
+
 
 
