@@ -94,11 +94,7 @@
     </a>
   </div>
   <div>
-    <a href="https://www.behance.net/emayethossen">
-      <img
-        src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=5DA5FF&logoColor=white&labelColor=&style=for-the-badge"
-        height="35" width="150" alt="Behance logo" />
-    </a>
+    
     <a href="https://www.facebook.com/emayethossen4/">
       <img
         src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=17A9FD&logoColor=white&labelColor=&style=for-the-badge"
@@ -112,6 +108,10 @@
     <a href="https://t.me/emayethossen">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
         height="35" width="150" alt="Telegram logo">
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge"
+        height="35" width="150" alt="Email logo">
     </a>
   </div>
 </div><br/>
